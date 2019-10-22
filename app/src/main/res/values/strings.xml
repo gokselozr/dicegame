@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">denemev11</string>
+    <string name="txt"></string>
+    <string name="btn1">Rastgele</string>
+    <string name="btn2">Temizle</string>
+    <string name="player1">1. Oyuncu</string>
+    <string name="player2">2. Oyuncu</string>
+    <string name="header">Zar Atma Oyunu</string>
+
+</resources>
